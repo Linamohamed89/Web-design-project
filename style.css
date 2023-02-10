@@ -1,0 +1,56 @@
+*{
+    margin-right: 40px;
+}
+.main{
+    width: 100%;
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(coding1.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+h1{
+    color: aquamarine;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 70px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serifs;
+}
+
+h2{
+    color: burlywood;
+    margin-right: 10px;
+}
+.gross{
+    text-align: center;
+}
+p{
+    color: #fff;
+}
+a{
+    color: aquamarine;
+    font-size: 30;
+}
+h3,h4{
+    color: chartreuse;
+}
+
+ul li{
+    color: #fff;
+}
+
+ol li{
+    color: #fff;
+}
+ th{
+    color: burlywood;
+    padding: 10px;
+    font-size: 20px;
+ }
+ #jahre{
+    color: blueviolet;
+ }
+td{
+    color: #fff;
+    padding: 10px;
+}
